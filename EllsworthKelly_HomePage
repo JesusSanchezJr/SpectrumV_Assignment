@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<!-- I used borders to seperate the blocks and color palette came from coolor.co
+Fonts came from fonts.google.com and png came from images I found on google.
+-->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="Spectrum.CSS">
+    <link href="https://fonts.googleapis.com/css?family=Aguafina+Script&display=swap"
+    rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC&display=swap"
+    rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Tangerine&display=swap"
+    rel="stylesheet">
+    <title>Spectrum V</title>
+  </head>
+  <!-- Tab links -->
+
+  <body>
+    <h1>Spectrum V by the Artist Ellsworth Kelly</h1>
+    <p>The original piece can be found at the Metropolitan Museum of Modern Art in New York City.</p>
+  <center>  <table id="tabs">
+      <tr>
+        <td id="Home"><a href="file:///Users/JesusSanchez/Desktop/SpectrumV/EllworthKelly.html">Home</a></td>
+        <td id="Bio"><a href="https://www.britannica.com/biography/Ellsworth-Kelly"> Bio</a></td>
+        <td id="Art"><a href="http://www.artnet.com/artists/ellsworth-kelly/">Art</a></td>
+        <td id="Contact"><a href="file:///Users/JesusSanchez/Desktop/SpectrumV/contact.html">Contact</a></td>
+      </tr>
+    </table></center>
+<!-- Give the table color or else it won't be seen. Adjust the table as you wish. -->
+ <table class="art">
+    <tr>
+      <td id="one"></td>
+      <td id="two"></td>
+      <td id="three"></td>
+      <td id="four"></td>
+      <td id="five"></td>
+    </tr>
+
+  </table>
+  <br>
+  <!-- -->
+  <p>The man, the myth, the legendary modern artist, Mr. Ellsworth Kelly!</p>
+  <center><img src="https://43ihfu4aarxi2wmx5m1zjrq9-wpengine.netdna-ssl.com/wp-content/uploads/2011/09/img-ellsworth-kelly-1_144211760611-750x1000.jpg"
+  alt="">
+  <img src="https://media.newyorker.com/photos/590973208b51cf59fc422b39/master/w_727,c_limit/Schjeldahl-Ellsworth-Kelly.jpg"
+  alt="">
+  <img src="https://assets.vogue.com/photos/5892118b0e6cdc8a1928e6b7/master/w_1280,c_limit/ellsworth-and-francisco-02_14560666506.jpg"
+   alt=""></center>
+
+  </body>
+  <br>
+  <footer>Follow Kelly Art</footer>
+  <center>  <table id="SocialMedia">
+    <tr>
+      <a href="https://www.instagram.com"><img id="instagram" src="instagram.png"
+       alt="instagram" /></a>
+    </tr>
+    <tr>
+      <a href="https://www.twitter.com"><img id="twitter"src="twitter.png"
+      alt="twitter" /></a></tr>
+      <a href="https://www.pinterest.com"><img id="pinterest" src="pinterest.png"
+      alt="pinterest"/></a></tr>
+  </table></center>
+  <!--  Read Comment in the contact page.
+  <ul>
+    <a href="https://www.instagram.com"><img id="instagram" src="instagram.png"
+    alt="instagram" /></a>
+    <a href="https://www.twitter.com"><img id="twitter"src="twitter.png"
+    alt="twitter" /></a>
+    <a href="https://www.pinterest.com"><img id="pinterest" src="pinterest.png"
+    alt="pinterest"/></a> -->
+  </ul>
+</footer>
+</html>
