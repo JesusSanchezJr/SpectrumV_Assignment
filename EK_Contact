@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="Spectrum.CSS">
+    <link href="https://fonts.googleapis.com/css?family=Aguafina+Script&display=swap"
+    rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC&display=swap"
+    rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Tangerine&display=swap"
+    rel="stylesheet">
+    <title>Contact Us!</title>
+  </head>
+  <body>
+    <h1>Point of Contact</h1>
+    <center>  <table id="tabs">
+        <tr>
+          <td id="Home"><a href="file:///Users/JesusSanchez/Desktop/SpectrumV/EllworthKelly.html">Home</a></td>
+          <td id="Bio"><a href="https://www.britannica.com/biography/Ellsworth-Kelly">Bio</a></td>
+          <td id="Art"><a href="http://www.artnet.com/artists/ellsworth-kelly/">Art</a></td>
+          <td id="Contact"><a href="file:///Users/JesusSanchez/Desktop/SpectrumV/contact.html">Contact</a></td>
+        </tr>
+      </table></center>
+    <p>Please contact my manager.</p>
+  <center>  <img id="avatar"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/James_Dean_-_publicity_-_early.JPG/220px-James_Dean_-_publicity_-_early.JPG"
+    alt="portfolio"></center>
+
+<br>
+    <h3>James Dean</h3>
+  <center> <table id="jdContact" >
+  <tr>
+    <th>Phone:</th>
+    <th>E-mail</th>
+  </tr>
+  <tr>
+    <td>786-212-5555</td>
+    <td>JimmyDean@kellypaints.com</td>
+  </tr>
+</table></center>
+
+  </body>
+  <br>
+<footer>Follow Kelly Art</footer>
+<center>  <table id="SocialMedia">
+  <tr>
+    <a href="https://www.instagram.com"><img id="instagram" src="instagram.png"
+     alt="instagram" /></a>
+  </tr>
+  <tr>
+    <a href="https://www.twitter.com"><img id="twitter"src="twitter.png"
+    alt="twitter" /></a></tr>
+    <a href="https://www.pinterest.com"><img id="pinterest" src="pinterest.png"
+    alt="pinterest"/></a></tr>
+</table></center>
+  <!-- As a list the social media icons could not be centered and aligned with the footer.
+  When I changed it to a table I was able to center and align it properly.
+  Before the instagram icon would start at the first " l " of the word "
+  Follow " so it made it look asymmetrical.
+   <ul>
+    <li id="Home"><a href="file:///Users/JesusSanchez/Desktop/SpectrumV/EllworthKelly.html">Home</a></li>
+    <li id="Bio"><a href="https://www.britannica.com/biography/Ellsworth-Kelly">Bio</a></li>
+    <li id="Art"><a href="http://www.artnet.com/artists/ellsworth-kelly/">Art</a></li>
+    <li id="Contact"><a href="file:///Users/JesusSanchez/Desktop/SpectrumV/contact.html">Contact</a></li>
+  </ul> -->
+</footer>
+</html>
